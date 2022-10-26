@@ -1,8 +1,8 @@
-import oldgreeting
+import newgreeting
 import random
 print("merge oefening leuk!")
 
-oldgreeting.greet()
+newgreeting.greet()
 
 
 
